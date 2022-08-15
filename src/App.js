@@ -4,7 +4,6 @@ import './App.css';
 function App() {
 
   // Jehe2 ami array k call krbo, tobe useState() er vitor array default value ""faka array []""
-   // const [ user, setUser ] = useState([])
    const [user, setUser] = useState([])
 
   /* useEffect + =>function use kore kono data k call kora hoy
